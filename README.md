@@ -4,4 +4,4 @@
 
 ## Use
 
-Expose **CSV***s*/**XLS** for data science.
+Expose **CSV***s*/**XLS**/etc.. for data science.
