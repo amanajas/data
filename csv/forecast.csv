@@ -1,0 +1,31 @@
+date,day,desc,region,tmp_now,weather_now,precipitation,humidity,wind
+17.12.2020,Donnerstag,Teils bewölkt,München,8,Teils bewölkt,10%,82%,8 km/h
+18.12.2020,Freitag,Sonnig,München,7,Sonnig,10%,87%,8 km/h
+19.12.2020,Samstag,Sonnig,München,4,Sonnig,10%,86%,6 km/h
+20.12.2020,Sonntag,Teils bewölkt,München,5,Teils bewölkt,10%,82%,8 km/h
+17.12.2020,Donnerstag,Teils bewölkt,"Recife - Pernambuco, Brasilien",29,Teils bewölkt,10%,66%,19 km/h
+18.12.2020,Freitag,Überwiegend sonnig,"Recife - Pernambuco, Brasilien",29,Überwiegend sonnig,20%,67%,19 km/h
+19.12.2020,Samstag,Überwiegend sonnig,"Recife - Pernambuco, Brasilien",29,Überwiegend sonnig,20%,65%,19 km/h
+20.12.2020,Sonntag,Überwiegend sonnig,"Recife - Pernambuco, Brasilien",29,Überwiegend sonnig,20%,66%,21 km/h
+17.12.2020,Donnerstag,Schauer,"Dublin, County Dublin, Irland",12,Schauer,70%,84%,27 km/h
+18.12.2020,Freitag,Regen,"Dublin, County Dublin, Irland",13,Regen,70%,86%,29 km/h
+19.12.2020,Samstag,Teils bewölkt,"Dublin, County Dublin, Irland",9,Teils bewölkt,10%,77%,31 km/h
+20.12.2020,Sonntag,Teils bewölkt,"Dublin, County Dublin, Irland",8,Teils bewölkt,20%,78%,27 km/h
+17.12.2020,Donnerstag,Gewitterschauer,"São Paulo, Brasilien",29,Gewitterschauer,70%,69%,13 km/h
+18.12.2020,Freitag,Gewitterschauer,"São Paulo, Brasilien",28,Gewitterschauer,70%,72%,14 km/h
+19.12.2020,Samstag,Vereinzelte Gewitter,"São Paulo, Brasilien",31,Vereinzelte Gewitter,50%,62%,18 km/h
+20.12.2020,Sonntag,Vereinzelte Gewitter,"São Paulo, Brasilien",33,Vereinzelte Gewitter,50%,58%,18 km/h
+18.12.2020,Donnerstag,Teils bewölkt,"San Francisco, Kalifornien, USA",13,Teils bewölkt,20%,70%,29 km/h
+19.12.2020,Samstag,Teils bewölkt,"San Francisco, Kalifornien, USA",14,Teils bewölkt,10%,68%,13 km/h
+20.12.2020,Sonntag,Sonnig,"San Francisco, Kalifornien, USA",14,Sonnig,10%,71%,16 km/h
+17.12.2020,Donnerstag,Wolkenlos,"Präfektur Tokio, Japan",10,Wolkenlos,10%,35%,6 km/h
+18.12.2020,Freitag,Wolkenlos,"Präfektur Tokio, Japan",12,Wolkenlos,10%,42%,6 km/h
+19.12.2020,Samstag,Wolkenlos,"Präfektur Tokio, Japan",9,Wolkenlos,20%,39%,26 km/h
+20.12.2020,Sonntag,Klar und vereinzelt Wolken,"Präfektur Tokio, Japan",9,Klar und vereinzelt Wolken,20%,30%,6 km/h
+18.12.2020,Donnerstag,Schneeschauer,"Toronto, Ontario, Kanada",-3,Schneeschauer,50%,67%,19 km/h
+19.12.2020,Samstag,Stark bewölkt,"Toronto, Ontario, Kanada",3,Stark bewölkt,20%,81%,24 km/h
+20.12.2020,Sonntag,Regen und Schnee,"Toronto, Ontario, Kanada",4,Regen und Schnee,60%,89%,24 km/h
+17.12.2020,Donnerstag,Klar und vereinzelt Wolken,"Sydney New South Wales, Australien",28,Klar und vereinzelt Wolken,20%,74%,18 km/h
+18.12.2020,Freitag,Vereinzelte Gewitter,"Sydney New South Wales, Australien",31,Vereinzelte Gewitter,100%,65%,27 km/h
+19.12.2020,Samstag,Stark bewölkt,"Sydney New South Wales, Australien",21,Stark bewölkt,10%,62%,24 km/h
+20.12.2020,Sonntag,Vereinzelte Regenschauer,"Sydney New South Wales, Australien",22,Vereinzelte Regenschauer,40%,68%,19 km/h
