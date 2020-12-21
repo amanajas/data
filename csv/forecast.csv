@@ -65,3 +65,6 @@ date,day,desc,region,tmp_now,weather_now,precipitation,humidity,wind
 21.12.2020,"Montag, 04:00",Überwiegend bewölkt,"Atlanta, Georgia, USA",7,Überwiegend bewölkt,4%,87%,10 km/h
 21.12.2020,"Montag, 10:00",Überwiegend bewölkt,Schongau,3,Überwiegend bewölkt,2%,93%,3 km/h
 21.12.2020,"Montag, 04:00",Stark bewölkt,Shanesville,1,Stark bewölkt,4%,96%,0 km/h
+21.12.2020,"Montag, 05:00",Überwiegend bewölkt,"Correia, Araguainha - Mato Grosso, Brasilien",24,Überwiegend bewölkt,5%,90%,3 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,"Varberg, Schweden",7,Stark bewölkt,16%,91%,27 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,Witzenhausen,7,Stark bewölkt,3%,87%,13 km/h
