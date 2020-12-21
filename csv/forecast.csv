@@ -134,3 +134,50 @@ date,day,desc,region,tmp_now,weather_now,precipitation,humidity,wind
 21.12.2020,"Montag, 14:00",Stark bewölkt,"Malmö Clothing Co., Adelgatan 19, Malmö, Schweden",7,Stark bewölkt,3%,87%,11 km/h
 21.12.2020,"Montag, 08:00",Nebel,Lake James,3,Nebel,2%,96%,0 km/h
 21.12.2020,"Montag, 14:00",Überwiegend bewölkt,"Halmstad, Schweden",7,Überwiegend bewölkt,6%,88%,24 km/h
+21.12.2020,"Montag, 17:00",Leichte Regenschauer,"Borås, Schweden",6,Leichte Regenschauer,78%,95%,13 km/h
+21.12.2020,"Montag, 17:00",Klar und vereinzelt Wolken,Hoyerswerda,3,Klar und vereinzelt Wolken,2%,86%,13 km/h
+21.12.2020,"Montag, 17:00",Stark bewölkt,Zerbst/Anhalt,6,Stark bewölkt,7%,89%,13 km/h
+21.12.2020,"Montag, 13:00",Sonnig,"Flores da Cunha, Rio Grande do Sul, Brasilien",22,Sonnig,0%,45%,13 km/h
+21.12.2020,"Montag, 17:00",Überwiegend bewölkt,"Kalmar, Schweden",6,Überwiegend bewölkt,3%,98%,11 km/h
+21.12.2020,"Montag, 17:00",Überwiegend bewölkt,"Uppsala, Schweden",6,Überwiegend bewölkt,7%,96%,16 km/h
+21.12.2020,"Montag, 17:00",Stark bewölkt,"Luleå, Schweden",2,Stark bewölkt,3%,95%,2 km/h
+21.12.2020,"Montag, 17:00",Überwiegend bewölkt,"Nyköping, Schweden",6,Überwiegend bewölkt,3%,95%,13 km/h
+21.12.2020,"Montag, 17:00",Regen,Siegen,7,Regen,75%,95%,23 km/h
+21.12.2020,Montag,Regen,Goslar,7,Regen,90%,84%,26 km/h
+21.12.2020,Montag,Stark bewölkt,"Örebro, Schweden",7,Stark bewölkt,20%,90%,14 km/h
+21.12.2020,"Montag, 17:00",Stark bewölkt,"Lund, Schweden",6,Stark bewölkt,4%,90%,8 km/h
+21.12.2020,"Montag, 11:00",Stark bewölkt,"West Elizabeth, Pennsylvania, USA",3,Stark bewölkt,5%,90%,18 km/h
+21.12.2020,"Montag, 17:00",Teils bewölkt,Schwerin,6,Teils bewölkt,6%,90%,11 km/h
+21.12.2020,"Montag, 10:00",Sonnig,Vanessa Street Colonia,14,Sonnig,0%,37%,6 km/h
+21.12.2020,"Montag, 17:00",Teils bewölkt,"Örnsköldsvik, Schweden",3,Teils bewölkt,3%,98%,10 km/h
+21.12.2020,"Montag, 11:00",Stark bewölkt,"Rebecca, Georgia, USA",11,Stark bewölkt,2%,88%,11 km/h
+21.12.2020,Samstag,Vereinzelte Regenschauer,Wolfenbüttel,4,Vereinzelte Regenschauer,30%,84%,24 km/h
+21.12.2020,"Montag, 16:00",Stark bewölkt,"Almeida, Portugal",11,Stark bewölkt,3%,92%,10 km/h
+21.12.2020,"Montag, 08:00",Leichte Regenschauer,"Lund, Britisch-Kolumbien, Kanada",3,Leichte Regenschauer,88%,90%,0 km/h
+21.12.2020,"Montag, 11:00",Überwiegend bewölkt,"Jonesport, Maine, USA",2,Überwiegend bewölkt,2%,100%,5 km/h
+21.12.2020,Samstag,Schauer,Tecklenburger Land,4,Schauer,50%,91%,26 km/h
+21.12.2020,"Montag, 17:00",Überwiegend bewölkt,Havelberg,4,Überwiegend bewölkt,3%,91%,10 km/h
+21.12.2020,"Montag, 16:00",Regen,"Longborough, Vereinigtes Königreich",12,Regen,91%,96%,26 km/h
+21.12.2020,Samstag,Regen und Schnee,"Lidköping, Schweden",3,Regen und Schnee,60%,91%,23 km/h
+21.12.2020,"Montag, 17:00",Leichte Regenschauer,Erkelenz,8,Leichte Regenschauer,80%,91%,14 km/h
+21.12.2020,"Montag, 08:00",Sonnig,"Duarte, Kalifornien, USA",16,Sonnig,0%,24%,3 km/h
+21.12.2020,"Montag, 17:00",Stark bewölkt,Magdeburg,6,Stark bewölkt,9%,88%,14 km/h
+21.12.2020,Donnerstag,Teils bewölkt,"Växjö, Schweden",2,Teils bewölkt,20%,92%,11 km/h
+21.12.2020,Sonntag,Schauer,"Landskrona, Schweden",5,Schauer,70%,89%,32 km/h
+21.12.2020,"Montag, 16:00",Teils bewölkt,"Porto da Cruz, Portugal",20,Teils bewölkt,10%,63%,5 km/h
+21.12.2020,Montag,Regen,Schrobenhausen,4,Regen,90%,94%,10 km/h
+21.12.2020,"Montag, 17:00",Regen,Regensburg,3,Regen,71%,95%,10 km/h
+21.12.2020,"Montag, 17:00",Stark bewölkt,Dinslaken,8,Stark bewölkt,52%,91%,23 km/h
+21.12.2020,"Montag, 17:00",Stark bewölkt,"Sandviken, Schweden",5,Stark bewölkt,33%,94%,11 km/h
+21.12.2020,"Montag, 17:00",Stark bewölkt,Tübingen,8,Stark bewölkt,53%,81%,11 km/h
+21.12.2020,Samstag,Überwiegend bewölkt,Ludwigsburg,3,Überwiegend bewölkt,20%,76%,16 km/h
+21.12.2020,"Montag, 17:00",Überwiegend bewölkt,Bad Doberan,6,Überwiegend bewölkt,3%,89%,14 km/h
+21.12.2020,"Montag, 16:00",Stark bewölkt,"Kirton in Lindsey, Vereinigtes Königreich",10,Stark bewölkt,8%,99%,16 km/h
+21.12.2020,Samstag,Stark bewölkt,Eisenhüttenstadt,3,Stark bewölkt,20%,85%,19 km/h
+21.12.2020,Freitag,Teils bewölkt,"Borlänge, Schweden",-1,Teils bewölkt,10%,76%,14 km/h
+21.12.2020,"Montag, 17:00",Leichte Regenschauer,Ochsenfurt,7,Leichte Regenschauer,86%,90%,14 km/h
+21.12.2020,"Montag, 17:00",Teils bewölkt,Oranienburg,6,Teils bewölkt,3%,84%,11 km/h
+21.12.2020,Samstag,Schauer,"Mölndal, Schweden",4,Schauer,80%,89%,26 km/h
+21.12.2020,"Montag, 17:00",Regen,Kassel,7,Regen,100%,90%,16 km/h
+21.12.2020,"Montag, 08:00",Sonnig,"North Hollywood, Los Angeles, Kalifornien, USA",11,Sonnig,0%,29%,0 km/h
+21.12.2020,"Montag, 09:00",Teils bewölkt,"Young Haven Circle, Utah, USA",5,Teils bewölkt,2%,70%,8 km/h
