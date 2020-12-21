@@ -61,3 +61,7 @@ date,day,desc,region,tmp_now,weather_now,precipitation,humidity,wind
 21.12.2020,"Montag, 10:00",Stark bewölkt,Wernigerode,7,Stark bewölkt,2%,76%,16 km/h
 21.12.2020,"Montag, 10:00",Stark bewölkt,"Växjö, Schweden",6,Stark bewölkt,13%,99%,13 km/h
 21.12.2020,"Montag, 03:00",Klar und vereinzelt Wolken,"Mitchell, Süddakota, USA",5,Klar und vereinzelt Wolken,0%,60%,29 km/h
+21.12.2020,"Montag, 10:00",Leichte Regenschauer,"Södertälje, Schweden",7,Leichte Regenschauer,65%,95%,10 km/h
+21.12.2020,"Montag, 04:00",Überwiegend bewölkt,"Atlanta, Georgia, USA",7,Überwiegend bewölkt,4%,87%,10 km/h
+21.12.2020,"Montag, 10:00",Überwiegend bewölkt,Schongau,3,Überwiegend bewölkt,2%,93%,3 km/h
+21.12.2020,"Montag, 04:00",Stark bewölkt,Shanesville,1,Stark bewölkt,4%,96%,0 km/h
