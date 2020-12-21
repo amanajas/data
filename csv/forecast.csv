@@ -1,31 +1,40 @@
 date,day,desc,region,tmp_now,weather_now,precipitation,humidity,wind
-17.12.2020,Donnerstag,Teils bewölkt,München,8,Teils bewölkt,10%,82%,8 km/h
-18.12.2020,Freitag,Sonnig,München,7,Sonnig,10%,87%,8 km/h
-19.12.2020,Samstag,Sonnig,München,4,Sonnig,10%,86%,6 km/h
-20.12.2020,Sonntag,Teils bewölkt,München,5,Teils bewölkt,10%,82%,8 km/h
-17.12.2020,Donnerstag,Teils bewölkt,"Recife - Pernambuco, Brasilien",29,Teils bewölkt,10%,66%,19 km/h
-18.12.2020,Freitag,Überwiegend sonnig,"Recife - Pernambuco, Brasilien",29,Überwiegend sonnig,20%,67%,19 km/h
-19.12.2020,Samstag,Überwiegend sonnig,"Recife - Pernambuco, Brasilien",29,Überwiegend sonnig,20%,65%,19 km/h
-20.12.2020,Sonntag,Überwiegend sonnig,"Recife - Pernambuco, Brasilien",29,Überwiegend sonnig,20%,66%,21 km/h
-17.12.2020,Donnerstag,Schauer,"Dublin, County Dublin, Irland",12,Schauer,70%,84%,27 km/h
-18.12.2020,Freitag,Regen,"Dublin, County Dublin, Irland",13,Regen,70%,86%,29 km/h
-19.12.2020,Samstag,Teils bewölkt,"Dublin, County Dublin, Irland",9,Teils bewölkt,10%,77%,31 km/h
-20.12.2020,Sonntag,Teils bewölkt,"Dublin, County Dublin, Irland",8,Teils bewölkt,20%,78%,27 km/h
-17.12.2020,Donnerstag,Gewitterschauer,"São Paulo, Brasilien",29,Gewitterschauer,70%,69%,13 km/h
-18.12.2020,Freitag,Gewitterschauer,"São Paulo, Brasilien",28,Gewitterschauer,70%,72%,14 km/h
-19.12.2020,Samstag,Vereinzelte Gewitter,"São Paulo, Brasilien",31,Vereinzelte Gewitter,50%,62%,18 km/h
-20.12.2020,Sonntag,Vereinzelte Gewitter,"São Paulo, Brasilien",33,Vereinzelte Gewitter,50%,58%,18 km/h
-18.12.2020,Donnerstag,Teils bewölkt,"San Francisco, Kalifornien, USA",13,Teils bewölkt,20%,70%,29 km/h
-19.12.2020,Samstag,Teils bewölkt,"San Francisco, Kalifornien, USA",14,Teils bewölkt,10%,68%,13 km/h
-20.12.2020,Sonntag,Sonnig,"San Francisco, Kalifornien, USA",14,Sonnig,10%,71%,16 km/h
-17.12.2020,Donnerstag,Wolkenlos,"Präfektur Tokio, Japan",10,Wolkenlos,10%,35%,6 km/h
-18.12.2020,Freitag,Wolkenlos,"Präfektur Tokio, Japan",12,Wolkenlos,10%,42%,6 km/h
-19.12.2020,Samstag,Wolkenlos,"Präfektur Tokio, Japan",9,Wolkenlos,20%,39%,26 km/h
-20.12.2020,Sonntag,Klar und vereinzelt Wolken,"Präfektur Tokio, Japan",9,Klar und vereinzelt Wolken,20%,30%,6 km/h
-18.12.2020,Donnerstag,Schneeschauer,"Toronto, Ontario, Kanada",-3,Schneeschauer,50%,67%,19 km/h
-19.12.2020,Samstag,Stark bewölkt,"Toronto, Ontario, Kanada",3,Stark bewölkt,20%,81%,24 km/h
-20.12.2020,Sonntag,Regen und Schnee,"Toronto, Ontario, Kanada",4,Regen und Schnee,60%,89%,24 km/h
-17.12.2020,Donnerstag,Klar und vereinzelt Wolken,"Sydney New South Wales, Australien",28,Klar und vereinzelt Wolken,20%,74%,18 km/h
-18.12.2020,Freitag,Vereinzelte Gewitter,"Sydney New South Wales, Australien",31,Vereinzelte Gewitter,100%,65%,27 km/h
-19.12.2020,Samstag,Stark bewölkt,"Sydney New South Wales, Australien",21,Stark bewölkt,10%,62%,24 km/h
-20.12.2020,Sonntag,Vereinzelte Regenschauer,"Sydney New South Wales, Australien",22,Vereinzelte Regenschauer,40%,68%,19 km/h
+21.12.2020,"Montag, 03:00",Teils bewölkt,"Brandon, Florida, USA",19,Teils bewölkt,6%,93%,11 km/h
+21.12.2020,"Montag, 00:00",Wolkenlos,"North San Juan, Kalifornien, USA",4,Wolkenlos,1%,57%,3 km/h
+21.12.2020,"Montag, 03:00",Stark bewölkt,"Johnsonburg, New Jersey, USA",1,Stark bewölkt,4%,90%,0 km/h
+21.12.2020,"Montag, 02:00",Wolkenlos,"Justin, Texas, USA",4,Wolkenlos,1%,66%,8 km/h
+21.12.2020,Samstag,Teils bewölkt,"Abram-Perezville, Texas, USA",26,Teils bewölkt,10%,59%,21 km/h
+21.12.2020,"Montag, 02:00",Stark bewölkt,"Collinsville, Mississippi, USA",6,Stark bewölkt,3%,94%,6 km/h
+21.12.2020,"Montag, 03:00",Stark bewölkt,Lake Jeffery,14,Stark bewölkt,7%,94%,16 km/h
+21.12.2020,"Montag, 03:00",Überwiegend bewölkt,"Port Sankt John, Florida, USA",20,Überwiegend bewölkt,19%,90%,13 km/h
+21.12.2020,"Montag, 04:00",Stark bewölkt,"Marieville, Québec, Kanada",1,Stark bewölkt,15%,91%,14 km/h
+21.12.2020,"Montag, 04:00",Nebel,"Dartmouth, Massachusetts, USA",1,Nebel,12%,96%,2 km/h
+21.12.2020,"Montag, 03:00",Stark bewölkt,"Gerald, Saskatchewan, Kanada",-11,Stark bewölkt,22%,90%,8 km/h
+21.12.2020,"Montag, 03:00",Überwiegend bewölkt,"Smithshire, Illinois, USA",3,Überwiegend bewölkt,7%,73%,13 km/h
+21.12.2020,"Montag, 02:00",Wolkenlos,"Southglenn, Colorado, USA",5,Wolkenlos,1%,55%,14 km/h
+21.12.2020,"Montag, 09:00",Stark bewölkt,"Westbury, Vereinigtes Königreich",12,Stark bewölkt,14%,99%,19 km/h
+21.12.2020,"Montag, 04:00",Stark bewölkt,"Fowlerville, Michigan, USA",2,Stark bewölkt,4%,85%,10 km/h
+21.12.2020,"Montag, 04:00",Nebel,"Stephentown, New York, USA",1,Nebel,3%,92%,5 km/h
+21.12.2020,"Montag, 04:00",Stark bewölkt,Berkshire,4,Stark bewölkt,4%,93%,2 km/h
+21.12.2020,"Montag, 11:00",Teils bewölkt,"Clarkebury, Südafrika",29,Teils bewölkt,12%,56%,6 km/h
+21.12.2020,"Montag, 03:00",Wolkenlos,Lanetown,3,Wolkenlos,3%,100%,0 km/h
+21.12.2020,Montag,Schauer,Einbeck,8,Schauer,60%,86%,23 km/h
+21.12.2020,"Montag, 05:00",Stark bewölkt,"Lake Paul, Nova Scotia, Kanada",2,Stark bewölkt,44%,97%,6 km/h
+21.12.2020,"Montag, 06:00",Teils bewölkt,"Castro - Paraná, Brasilien",19,Teils bewölkt,18%,97%,3 km/h
+21.12.2020,"Montag, 03:00",Nebel,"Lake Charles, Louisiana, USA",8,Nebel,4%,85%,2 km/h
+21.12.2020,"Montag, 04:00",Stark bewölkt,"Thomasville, Georgia, USA",12,Stark bewölkt,3%,93%,8 km/h
+21.12.2020,"Montag, 01:00",Wolkenlos,"Riverside, Kalifornien, USA",11,Wolkenlos,0%,24%,5 km/h
+21.12.2020,Montag,Teils bewölkt,Lake James,14,Teils bewölkt,0%,55%,16 km/h
+21.12.2020,"Montag, 10:00",Teils bewölkt,Gifhorn,6,Teils bewölkt,2%,88%,11 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,Herford,6,Stark bewölkt,2%,80%,13 km/h
+21.12.2020,Donnerstag,Überwiegend bewölkt,"Ängelholm, Schweden",4,Überwiegend bewölkt,20%,88%,14 km/h
+21.12.2020,"Montag, 04:00",Stark bewölkt,"Jamesport, New York, USA",2,Stark bewölkt,4%,92%,6 km/h
+21.12.2020,"Montag, 19:00",Klar und vereinzelt Wolken,"Moura Queensland, Australien",31,Klar und vereinzelt Wolken,1%,49%,29 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,"Helsingborg, Schweden",7,Stark bewölkt,6%,93%,13 km/h
+21.12.2020,"Montag, 06:00",Teils bewölkt,"St. John’s, Neufundland und Labrador, Kanada",-5,Teils bewölkt,2%,90%,10 km/h
+21.12.2020,"Montag, 06:00",Teils bewölkt,"Cunha, São Paulo, Brasilien",21,Teils bewölkt,2%,84%,5 km/h
+21.12.2020,"Montag, 10:00",Nebel,"Göteborg, Schweden",7,Nebel,67%,91%,21 km/h
+21.12.2020,"Montag, 10:00",Teils bewölkt,Starnberg,2,Teils bewölkt,2%,95%,5 km/h
+21.12.2020,"Montag, 10:00",Teils bewölkt,"Norrköping, Schweden",6,Teils bewölkt,5%,94%,13 km/h
+21.12.2020,"Montag, 10:00",Nebel,Göppingen,4,Nebel,2%,99%,5 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,"Falun, Schweden",5,Stark bewölkt,3%,95%,8 km/h
