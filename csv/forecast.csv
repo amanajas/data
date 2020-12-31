@@ -30,154 +30,46 @@ date,day,desc,region,tmp_now,weather_now,precipitation,humidity,wind
 21.12.2020,Donnerstag,Überwiegend bewölkt,"Ängelholm, Schweden",4,Überwiegend bewölkt,20%,88%,14 km/h
 21.12.2020,"Montag, 04:00",Stark bewölkt,"Jamesport, New York, USA",2,Stark bewölkt,4%,92%,6 km/h
 21.12.2020,"Montag, 19:00",Klar und vereinzelt Wolken,"Moura Queensland, Australien",31,Klar und vereinzelt Wolken,1%,49%,29 km/h
-21.12.2020,"Montag, 12:00",Regen,Grevenbroich,8,Regen,83%,84%,18 km/h
-21.12.2020,"Montag, 12:00",Überwiegend bewölkt,"Varberg, Schweden",7,Überwiegend bewölkt,4%,92%,24 km/h
-21.12.2020,"Montag, 12:00",Stark bewölkt,Olpe,6,Stark bewölkt,24%,93%,19 km/h
-21.12.2020,"Montag, 12:00",Teils bewölkt,Lübeck,7,Teils bewölkt,2%,84%,10 km/h
-21.12.2020,"Montag, 08:00",Stark bewölkt,"Daniel's Harbour, Neufundland und Labrador, Kanada",0,Stark bewölkt,2%,75%,13 km/h
-21.12.2020,"Dienstag, 00:00",Stark bewölkt,"Wellington, Neuseeland",17,Stark bewölkt,4%,87%,11 km/h
-21.12.2020,"Montag, 12:00",Regen,"Borås, Schweden",6,Regen,65%,96%,16 km/h
-21.12.2020,"Montag, 12:00",Leichte Regenschauer,"Burg, Schweiz",4,Leichte Regenschauer,61%,87%,2 km/h
-21.12.2020,"Montag, 12:00",Stark bewölkt,"Umeå, Schweden",4,Stark bewölkt,6%,95%,10 km/h
-21.12.2020,"Montag, 08:00",Überwiegend bewölkt,"Santos - São Paulo, Brasilien",28,Überwiegend bewölkt,4%,77%,8 km/h
-21.12.2020,"Montag, 03:00",Wolkenlos,"Riverside, Kalifornien, USA",13,Wolkenlos,0%,22%,5 km/h
-21.12.2020,"Montag, 12:00",Stark bewölkt,"Karlskrona, Schweden",7,Stark bewölkt,4%,95%,24 km/h
-21.12.2020,"Montag, 04:00",Wolkenlos,"Marcus, Süddakota, USA",1,Wolkenlos,1%,78%,24 km/h
-21.12.2020,"Montag, 12:00",Stark bewölkt,"Lund, Schweden",7,Stark bewölkt,3%,91%,14 km/h
-21.12.2020,"Montag, 12:00",Teils bewölkt,Uelzen,7,Teils bewölkt,2%,80%,14 km/h
-21.12.2020,"Montag, 12:00",Stark bewölkt,"Varberg, Schweden",7,Stark bewölkt,4%,92%,23 km/h
-21.12.2020,"Montag, 12:00",Teils bewölkt,Teterow,7,Teils bewölkt,3%,89%,13 km/h
-21.12.2020,"Montag, 04:00",Stark bewölkt,Lund,2,Stark bewölkt,18%,83%,16 km/h
-21.12.2020,"Montag, 12:00",Stark bewölkt,Duderstadt,7,Stark bewölkt,4%,83%,18 km/h
-21.12.2020,"Montag, 12:00",Stark bewölkt,"Karlskoga, Schweden",6,Stark bewölkt,18%,97%,11 km/h
-21.12.2020,"Montag, 11:00",Stark bewölkt,"Silveira, Portugal",17,Stark bewölkt,2%,87%,14 km/h
-21.12.2020,"Montag, 12:00",Nebel,Erding,3,Nebel,2%,95%,8 km/h
-21.12.2020,"Montag, 12:00",Überwiegend bewölkt,Ochsenfurt,6,Überwiegend bewölkt,8%,95%,6 km/h
-21.12.2020,"Montag, 05:00",Wolkenlos,"Kalmar Township, Minnesota, USA",1,Wolkenlos,2%,74%,24 km/h
-21.12.2020,"Montag, 12:00",Stark bewölkt,"Västerås, Schweden",7,Stark bewölkt,5%,87%,11 km/h
-21.12.2020,"Montag, 03:00",Nebel,"Tracy, Kalifornien, USA",1,Nebel,2%,99%,5 km/h
-21.12.2020,"Montag, 12:00",Stark bewölkt,"Förlossningen BB Varbergs Sjukhus, Träslövsvägen 68, Hallands Sjukhus, Varberg, Schweden",7,Stark bewölkt,4%,92%,23 km/h
-21.12.2020,"Montag, 12:00",Stark bewölkt,Aachen,9,Stark bewölkt,18%,75%,27 km/h
-21.12.2020,Montag,Schauer,Josephtown,4,Schauer,90%,91%,11 km/h
-21.12.2020,"Montag, 22:00",Klar und vereinzelt Wolken,"Peterborough South Australia, Australien",13,Klar und vereinzelt Wolken,4%,73%,21 km/h
-21.12.2020,"Montag, 12:00",Stark bewölkt,"Halmstad, Schweden",7,Stark bewölkt,8%,88%,27 km/h
-21.12.2020,"Montag, 08:00",Teils bewölkt,"Cunha, São Paulo, Brasilien",25,Teils bewölkt,9%,68%,6 km/h
-21.12.2020,"Montag, 13:00",Überwiegend bewölkt,Lake Mutirikwi,26,Überwiegend bewölkt,46%,73%,8 km/h
-21.12.2020,"Montag, 11:00",Stark bewölkt,"Bishopton, Vereinigtes Königreich",6,Stark bewölkt,55%,93%,6 km/h
-21.12.2020,"Montag, 12:00",Teils bewölkt,Wittstock/Dosse,6,Teils bewölkt,3%,88%,13 km/h
-21.12.2020,"Montag, 05:00",Teils bewölkt,"Donna, Texas, USA",8,Teils bewölkt,2%,92%,0 km/h
-21.12.2020,"Montag, 12:00",Nebel,Göppingen,6,Nebel,3%,93%,6 km/h
-21.12.2020,"Montag, 12:00",Leichte Regenschauer,Konstanz,4,Leichte Regenschauer,6%,94%,6 km/h
-21.12.2020,"Montag, 12:00",Stark bewölkt,Koblenz,8,Stark bewölkt,24%,91%,11 km/h
-21.12.2020,"Montag, 05:00",Stark bewölkt,"Dothan, Alabama, USA",11,Stark bewölkt,4%,93%,8 km/h
-21.12.2020,"Montag, 12:00",Überwiegend bewölkt,"Örebro, Schweden",7,Überwiegend bewölkt,15%,92%,11 km/h
-21.12.2020,"Montag, 12:00",Stark bewölkt,Aachen,9,Stark bewölkt,18%,75%,27 km/h
-21.12.2020,"Montag, 13:00",Stark bewölkt,"Salisbury, Vereinigtes Königreich",13,Stark bewölkt,13%,95%,23 km/h
-21.12.2020,"Montag, 14:00",Klar und vereinzelt Wolken,"Östersund, Schweden",1,Klar und vereinzelt Wolken,3%,83%,11 km/h
-21.12.2020,"Montag, 05:00",Regen,"Silvana, Washington, USA",7,Regen,97%,95%,8 km/h
-21.12.2020,"Montag, 05:00",Teils bewölkt,"Contra Costa County, Kalifornien, USA",2,Teils bewölkt,2%,99%,6 km/h
-21.12.2020,"Montag, 14:00",Überwiegend sonnig,Bad Doberan,7,Überwiegend sonnig,3%,86%,11 km/h
-21.12.2020,"Montag, 14:00",Teils bewölkt,"Nyköping, Schweden",5,Teils bewölkt,4%,99%,11 km/h
-21.12.2020,Montag,Stark bewölkt,"Varberg, Schweden",8,Stark bewölkt,10%,92%,23 km/h
-21.12.2020,"Montag, 14:00",Stark bewölkt,Neunburg vorm Wald,3,Stark bewölkt,72%,94%,5 km/h
-21.12.2020,Freitag,Teils bewölkt,"Karlskrona, Schweden",1,Teils bewölkt,10%,83%,16 km/h
-21.12.2020,"Montag, 14:00",Stark bewölkt,Greiz,4,Stark bewölkt,6%,90%,18 km/h
-21.12.2020,"Montag, 14:00",Stark bewölkt,Wolgast,6,Stark bewölkt,3%,92%,11 km/h
-21.12.2020,"Montag, 14:00",Überwiegend bewölkt,Grimmen,7,Überwiegend bewölkt,3%,89%,11 km/h
-21.12.2020,"Montag, 17:00",Stark bewölkt,Rodrigues,26,Stark bewölkt,5%,76%,34 km/h
-21.12.2020,"Montag, 14:00",Überwiegend bewölkt,"Umeå, Schweden",4,Überwiegend bewölkt,3%,100%,8 km/h
-21.12.2020,"Montag, 14:00",Regen,Borken,8,Regen,89%,86%,18 km/h
-21.12.2020,"Montag, 14:00",Nebel,"Växjö, Schweden",6,Nebel,8%,98%,11 km/h
-21.12.2020,"Montag, 14:00",Leichte Regenschauer,Tecklenburger Land,7,Leichte Regenschauer,91%,89%,13 km/h
-21.12.2020,"Montag, 14:00",Überwiegend sonnig,"Mendes, Algerien",13,Überwiegend sonnig,1%,73%,8 km/h
-21.12.2020,"Dienstag, 00:00",Leichte Regenschauer,"Port Stephens Council, New South Wales, Australien",21,Leichte Regenschauer,66%,100%,13 km/h
-21.12.2020,"Montag, 14:00",Teils bewölkt,Rostock,7,Teils bewölkt,3%,87%,11 km/h
-21.12.2020,"Montag, 14:00",Überwiegend bewölkt,Magdeburg,8,Überwiegend bewölkt,4%,78%,13 km/h
-21.12.2020,"Montag, 14:00",Stark bewölkt,"Norrköping, Schweden",6,Stark bewölkt,3%,93%,11 km/h
-21.12.2020,"Montag, 08:00",Stark bewölkt,Lake Robertson,1,Stark bewölkt,3%,100%,5 km/h
-21.12.2020,"Montag, 14:00",Überwiegend bewölkt,"Sundsvall, Schweden",6,Überwiegend bewölkt,2%,79%,11 km/h
-21.12.2020,"Montag, 14:00",Überwiegend bewölkt,Eberswalde,6,Überwiegend bewölkt,3%,84%,13 km/h
-21.12.2020,"Dienstag, 00:00",Leichte Regenschauer,"Megan New South Wales, Australien",18,Leichte Regenschauer,66%,100%,10 km/h
-21.12.2020,"Montag, 14:00",Überwiegend bewölkt,Apolda,7,Überwiegend bewölkt,6%,79%,14 km/h
-21.12.2020,Samstag,Schneeschauer,Heilbad Heiligenstadt,2,Schneeschauer,40%,88%,26 km/h
-21.12.2020,"Montag, 05:00",Nebel,"Emmaton, Kalifornien, USA",2,Nebel,4%,95%,6 km/h
-21.12.2020,Montag,Stark bewölkt,Rochlitz,9,Stark bewölkt,10%,80%,21 km/h
-21.12.2020,Samstag,Schneeschauer,"Umeå, Schweden",-4,Schneeschauer,40%,83%,16 km/h
-21.12.2020,"Montag, 05:00",Nebel,"Norden, Kalifornien, USA",-2,Nebel,0%,41%,2 km/h
-21.12.2020,"Montag, 14:00",Überwiegend bewölkt,"Varberg, Schweden",7,Überwiegend bewölkt,4%,91%,19 km/h
-21.12.2020,"Montag, 08:00",Teils bewölkt,"South Patrick Shores, Florida, USA",18,Teils bewölkt,2%,77%,27 km/h
-21.12.2020,"Montag, 14:00",Überwiegend bewölkt,"Motala, Schweden",6,Überwiegend bewölkt,8%,90%,16 km/h
-21.12.2020,"Montag, 08:00",Nebel,"Plymouth, Connecticut, USA",0,Nebel,3%,94%,3 km/h
-21.12.2020,"Montag, 14:00",Stark bewölkt,"Uddevalla, Schweden",7,Stark bewölkt,10%,90%,14 km/h
-21.12.2020,"Montag, 14:00",Stark bewölkt,"Trollhättan, Schweden",6,Stark bewölkt,6%,91%,14 km/h
-21.12.2020,"Montag, 13:00",Stark bewölkt,"Michelle & Co. Properties, 13 New Road, Bromsgrove, Vereinigtes Königreich",12,Stark bewölkt,11%,99%,14 km/h
-21.12.2020,Sonntag,Schneeschauer,Vohenstrauß,-1,Schneeschauer,40%,64%,18 km/h
-21.12.2020,"Montag, 13:00",Stark bewölkt,"Wanborough, Vereinigtes Königreich",12,Stark bewölkt,18%,100%,21 km/h
-21.12.2020,"Montag, 14:00",Überwiegend bewölkt,"Falun, Schweden",5,Überwiegend bewölkt,54%,90%,8 km/h
-21.12.2020,"Montag, 14:00",Leichte Regenschauer,Lisberg,4,Leichte Regenschauer,71%,92%,13 km/h
-21.12.2020,"Montag, 08:00",Sonnig,"North Nicholas High School, 428 Southwest Pine Island Road, Cape Coral, FL, Vereinigte Staaten",19,Sonnig,2%,90%,14 km/h
-21.12.2020,"Montag, 14:00",Teils bewölkt,Berlin,7,Teils bewölkt,3%,81%,11 km/h
-21.12.2020,"Montag, 10:00",Überwiegend bewölkt,"Costela, Mucugê - Bahia, Brasilien",22,Überwiegend bewölkt,6%,77%,13 km/h
-21.12.2020,"Montag, 14:00",Stark bewölkt,"Lidingö, Schweden",7,Stark bewölkt,5%,90%,8 km/h
-21.12.2020,"Montag, 07:00",Teils bewölkt,Bryanville,3,Teils bewölkt,2%,94%,11 km/h
-21.12.2020,"Montag, 14:00",Nebel,Erding,3,Nebel,3%,98%,6 km/h
-21.12.2020,"Montag, 09:00",Stark bewölkt,"Saint John, New Brunswick, Kanada",6,Stark bewölkt,10%,96%,10 km/h
-21.12.2020,"Montag, 05:00",Stark bewölkt,"Eatonville, Washington, USA",11,Stark bewölkt,36%,89%,10 km/h
-21.12.2020,"Montag, 14:00",Stark bewölkt,Hofgeismar,8,Stark bewölkt,16%,82%,16 km/h
-21.12.2020,Donnerstag,Schauer,Mittweida,9,Schauer,80%,83%,27 km/h
-21.12.2020,"Montag, 14:00",Stark bewölkt,"Trelleborg, Schweden",7,Stark bewölkt,3%,86%,14 km/h
-21.12.2020,"Montag, 14:00",Regen,Gütersloh,8,Regen,86%,78%,14 km/h
-21.12.2020,"Montag, 08:00",Nebel,"Tylersport, Pennsylvania, USA",1,Nebel,4%,96%,3 km/h
-21.12.2020,Freitag,Sonnig,"Helsingborg, Schweden",2,Sonnig,10%,79%,13 km/h
-21.12.2020,"Montag, 14:00",Leichte Regenschauer,Amberg,2,Leichte Regenschauer,76%,97%,8 km/h
-21.12.2020,"Montag, 14:00",Überwiegend bewölkt,"Eskilstuna, Schweden",6,Überwiegend bewölkt,7%,85%,10 km/h
-21.12.2020,"Montag, 14:00",Stark bewölkt,"Malmö Clothing Co., Adelgatan 19, Malmö, Schweden",7,Stark bewölkt,3%,87%,11 km/h
-21.12.2020,"Montag, 08:00",Nebel,Lake James,3,Nebel,2%,96%,0 km/h
-21.12.2020,"Montag, 14:00",Überwiegend bewölkt,"Halmstad, Schweden",7,Überwiegend bewölkt,6%,88%,24 km/h
-21.12.2020,"Montag, 17:00",Leichte Regenschauer,"Borås, Schweden",6,Leichte Regenschauer,78%,95%,13 km/h
-21.12.2020,"Montag, 17:00",Klar und vereinzelt Wolken,Hoyerswerda,3,Klar und vereinzelt Wolken,2%,86%,13 km/h
-21.12.2020,"Montag, 17:00",Stark bewölkt,Zerbst/Anhalt,6,Stark bewölkt,7%,89%,13 km/h
-21.12.2020,"Montag, 13:00",Sonnig,"Flores da Cunha, Rio Grande do Sul, Brasilien",22,Sonnig,0%,45%,13 km/h
-21.12.2020,"Montag, 17:00",Überwiegend bewölkt,"Kalmar, Schweden",6,Überwiegend bewölkt,3%,98%,11 km/h
-21.12.2020,"Montag, 17:00",Überwiegend bewölkt,"Uppsala, Schweden",6,Überwiegend bewölkt,7%,96%,16 km/h
-21.12.2020,"Montag, 17:00",Stark bewölkt,"Luleå, Schweden",2,Stark bewölkt,3%,95%,2 km/h
-21.12.2020,"Montag, 17:00",Überwiegend bewölkt,"Nyköping, Schweden",6,Überwiegend bewölkt,3%,95%,13 km/h
-21.12.2020,"Montag, 17:00",Regen,Siegen,7,Regen,75%,95%,23 km/h
-21.12.2020,Montag,Regen,Goslar,7,Regen,90%,84%,26 km/h
-21.12.2020,Montag,Stark bewölkt,"Örebro, Schweden",7,Stark bewölkt,20%,90%,14 km/h
-21.12.2020,"Montag, 17:00",Stark bewölkt,"Lund, Schweden",6,Stark bewölkt,4%,90%,8 km/h
-21.12.2020,"Montag, 11:00",Stark bewölkt,"West Elizabeth, Pennsylvania, USA",3,Stark bewölkt,5%,90%,18 km/h
-21.12.2020,"Montag, 17:00",Teils bewölkt,Schwerin,6,Teils bewölkt,6%,90%,11 km/h
-21.12.2020,"Montag, 10:00",Sonnig,Vanessa Street Colonia,14,Sonnig,0%,37%,6 km/h
-21.12.2020,"Montag, 17:00",Teils bewölkt,"Örnsköldsvik, Schweden",3,Teils bewölkt,3%,98%,10 km/h
-21.12.2020,"Montag, 11:00",Stark bewölkt,"Rebecca, Georgia, USA",11,Stark bewölkt,2%,88%,11 km/h
-21.12.2020,Samstag,Vereinzelte Regenschauer,Wolfenbüttel,4,Vereinzelte Regenschauer,30%,84%,24 km/h
-21.12.2020,"Montag, 16:00",Stark bewölkt,"Almeida, Portugal",11,Stark bewölkt,3%,92%,10 km/h
-21.12.2020,"Montag, 08:00",Leichte Regenschauer,"Lund, Britisch-Kolumbien, Kanada",3,Leichte Regenschauer,88%,90%,0 km/h
-21.12.2020,"Montag, 11:00",Überwiegend bewölkt,"Jonesport, Maine, USA",2,Überwiegend bewölkt,2%,100%,5 km/h
-21.12.2020,Samstag,Schauer,Tecklenburger Land,4,Schauer,50%,91%,26 km/h
-21.12.2020,"Montag, 17:00",Überwiegend bewölkt,Havelberg,4,Überwiegend bewölkt,3%,91%,10 km/h
-21.12.2020,"Montag, 16:00",Regen,"Longborough, Vereinigtes Königreich",12,Regen,91%,96%,26 km/h
-21.12.2020,Samstag,Regen und Schnee,"Lidköping, Schweden",3,Regen und Schnee,60%,91%,23 km/h
-21.12.2020,"Montag, 17:00",Leichte Regenschauer,Erkelenz,8,Leichte Regenschauer,80%,91%,14 km/h
-21.12.2020,"Montag, 08:00",Sonnig,"Duarte, Kalifornien, USA",16,Sonnig,0%,24%,3 km/h
-21.12.2020,"Montag, 17:00",Stark bewölkt,Magdeburg,6,Stark bewölkt,9%,88%,14 km/h
-21.12.2020,Donnerstag,Teils bewölkt,"Växjö, Schweden",2,Teils bewölkt,20%,92%,11 km/h
-21.12.2020,Sonntag,Schauer,"Landskrona, Schweden",5,Schauer,70%,89%,32 km/h
-21.12.2020,"Montag, 16:00",Teils bewölkt,"Porto da Cruz, Portugal",20,Teils bewölkt,10%,63%,5 km/h
-21.12.2020,Montag,Regen,Schrobenhausen,4,Regen,90%,94%,10 km/h
-21.12.2020,"Montag, 17:00",Regen,Regensburg,3,Regen,71%,95%,10 km/h
-21.12.2020,"Montag, 17:00",Stark bewölkt,Dinslaken,8,Stark bewölkt,52%,91%,23 km/h
-21.12.2020,"Montag, 17:00",Stark bewölkt,"Sandviken, Schweden",5,Stark bewölkt,33%,94%,11 km/h
-21.12.2020,"Montag, 17:00",Stark bewölkt,Tübingen,8,Stark bewölkt,53%,81%,11 km/h
-21.12.2020,Samstag,Überwiegend bewölkt,Ludwigsburg,3,Überwiegend bewölkt,20%,76%,16 km/h
-21.12.2020,"Montag, 17:00",Überwiegend bewölkt,Bad Doberan,6,Überwiegend bewölkt,3%,89%,14 km/h
-21.12.2020,"Montag, 16:00",Stark bewölkt,"Kirton in Lindsey, Vereinigtes Königreich",10,Stark bewölkt,8%,99%,16 km/h
-21.12.2020,Samstag,Stark bewölkt,Eisenhüttenstadt,3,Stark bewölkt,20%,85%,19 km/h
-21.12.2020,Freitag,Teils bewölkt,"Borlänge, Schweden",-1,Teils bewölkt,10%,76%,14 km/h
-21.12.2020,"Montag, 17:00",Leichte Regenschauer,Ochsenfurt,7,Leichte Regenschauer,86%,90%,14 km/h
-21.12.2020,"Montag, 17:00",Teils bewölkt,Oranienburg,6,Teils bewölkt,3%,84%,11 km/h
-21.12.2020,Samstag,Schauer,"Mölndal, Schweden",4,Schauer,80%,89%,26 km/h
-21.12.2020,"Montag, 17:00",Regen,Kassel,7,Regen,100%,90%,16 km/h
-21.12.2020,"Montag, 08:00",Sonnig,"North Hollywood, Los Angeles, Kalifornien, USA",11,Sonnig,0%,29%,0 km/h
-21.12.2020,"Montag, 09:00",Teils bewölkt,"Young Haven Circle, Utah, USA",5,Teils bewölkt,2%,70%,8 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,"Helsingborg, Schweden",7,Stark bewölkt,6%,93%,13 km/h
+21.12.2020,"Montag, 06:00",Teils bewölkt,"St. John’s, Neufundland und Labrador, Kanada",-5,Teils bewölkt,2%,90%,10 km/h
+21.12.2020,"Montag, 06:00",Teils bewölkt,"Cunha, São Paulo, Brasilien",21,Teils bewölkt,2%,84%,5 km/h
+21.12.2020,"Montag, 10:00",Nebel,"Göteborg, Schweden",7,Nebel,67%,91%,21 km/h
+21.12.2020,"Montag, 10:00",Teils bewölkt,Starnberg,2,Teils bewölkt,2%,95%,5 km/h
+21.12.2020,"Montag, 10:00",Teils bewölkt,"Norrköping, Schweden",6,Teils bewölkt,5%,94%,13 km/h
+21.12.2020,"Montag, 10:00",Nebel,Göppingen,4,Nebel,2%,99%,5 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,"Falun, Schweden",5,Stark bewölkt,3%,95%,8 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,"Varberg, Schweden",7,Stark bewölkt,16%,91%,27 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,Goslar,6,Stark bewölkt,2%,84%,21 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,"Trelleborg, Schweden",7,Stark bewölkt,5%,93%,21 km/h
+21.12.2020,"Montag, 06:00",Sonnig,"Melo, Departamento Cerro Largo, Uruguay",13,Sonnig,1%,79%,8 km/h
+21.12.2020,"Montag, 10:00",Teils bewölkt,Uelzen,6,Teils bewölkt,2%,89%,13 km/h
+21.12.2020,"Montag, 10:00",Nebel,Hechingen,5,Nebel,2%,88%,6 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,"Wismar, Uckerland",6,Stark bewölkt,3%,94%,14 km/h
+21.12.2020,Montag,Stark bewölkt,"Borås, Schweden",7,Stark bewölkt,20%,97%,16 km/h
+21.12.2020,"Montag, 06:00",Überwiegend bewölkt,"Campo Alegre de Goiás, Goiás, Brasilien",21,Überwiegend bewölkt,4%,90%,6 km/h
+21.12.2020,"Montag, 10:00",Teils bewölkt,Schwabmünchen,3,Teils bewölkt,2%,100%,3 km/h
+21.12.2020,"Montag, 10:00",Nebel,Naila,2,Nebel,3%,97%,13 km/h
+21.12.2020,"Montag, 04:00",Stark bewölkt,"Rebecca, Georgia, USA",9,Stark bewölkt,3%,96%,8 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,"Varberg, Schweden",7,Stark bewölkt,16%,91%,27 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,"Lidköping, Schweden",6,Stark bewölkt,17%,98%,14 km/h
+21.12.2020,"Montag, 04:00",Nebel,"Martin, Pennsylvania, USA",1,Nebel,4%,100%,6 km/h
+21.12.2020,"Montag, 09:00",Stark bewölkt,"Oliveira de Azeméis, Portugal",13,Stark bewölkt,18%,100%,14 km/h
+21.12.2020,"Montag, 10:00",Überwiegend bewölkt,Pirmasens,6,Überwiegend bewölkt,71%,97%,6 km/h
+21.12.2020,"Montag, 06:00",Sonnig,"Cardozo, Tacuarembó, Uruguay",13,Sonnig,1%,76%,10 km/h
+21.12.2020,"Montag, 10:00",Leichte Regenschauer,"Södertälje, Schweden",7,Leichte Regenschauer,65%,95%,10 km/h
+21.12.2020,"Montag, 01:00",Nebel,"Santa Rosa, Kalifornien, USA",5,Nebel,2%,87%,0 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,Wernigerode,7,Stark bewölkt,2%,76%,16 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,"Växjö, Schweden",6,Stark bewölkt,13%,99%,13 km/h
+21.12.2020,"Montag, 03:00",Klar und vereinzelt Wolken,"Mitchell, Süddakota, USA",5,Klar und vereinzelt Wolken,0%,60%,29 km/h
+21.12.2020,"Montag, 10:00",Leichte Regenschauer,"Södertälje, Schweden",7,Leichte Regenschauer,65%,95%,10 km/h
+21.12.2020,"Montag, 04:00",Überwiegend bewölkt,"Atlanta, Georgia, USA",7,Überwiegend bewölkt,4%,87%,10 km/h
+21.12.2020,"Montag, 10:00",Überwiegend bewölkt,Schongau,3,Überwiegend bewölkt,2%,93%,3 km/h
+21.12.2020,"Montag, 04:00",Stark bewölkt,Shanesville,1,Stark bewölkt,4%,96%,0 km/h
+21.12.2020,"Montag, 05:00",Überwiegend bewölkt,"Correia, Araguainha - Mato Grosso, Brasilien",24,Überwiegend bewölkt,5%,90%,3 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,"Varberg, Schweden",7,Stark bewölkt,16%,91%,27 km/h
+21.12.2020,"Montag, 10:00",Stark bewölkt,Witzenhausen,7,Stark bewölkt,3%,87%,13 km/h
+31.12.2020,"Donnerstag, 02:00",Überwiegend bewölkt,Luckenwalde,2,Überwiegend bewölkt,3%,88%,13 km/h
+31.12.2020,"Mittwoch, 19:00",Stark bewölkt,"Thomas, Illinois, USA",-4,Stark bewölkt,2%,77%,23 km/h
+31.12.2020,"Donnerstag, 01:00",Stark bewölkt,"Distrikt Viana do Castelo, Portugal",8,Stark bewölkt,18%,94%,6 km/h
+31.12.2020,"Donnerstag, 02:00",Klar und vereinzelt Wolken,Merseburg,3,Klar und vereinzelt Wolken,2%,79%,16 km/h
+31.12.2020,"Donnerstag, 02:00",Teils bewölkt,Erfurt,2,Teils bewölkt,2%,80%,11 km/h
