@@ -73,3 +73,9 @@ date,day,desc,region,tmp_now,weather_now,precipitation,humidity,wind
 31.12.2020,"Donnerstag, 01:00",Stark bewölkt,"Distrikt Viana do Castelo, Portugal",8,Stark bewölkt,18%,94%,6 km/h
 31.12.2020,"Donnerstag, 02:00",Klar und vereinzelt Wolken,Merseburg,3,Klar und vereinzelt Wolken,2%,79%,16 km/h
 31.12.2020,"Donnerstag, 02:00",Teils bewölkt,Erfurt,2,Teils bewölkt,2%,80%,11 km/h
+31.12.2020,"Donnerstag, 02:00",Regen,"Helsingborg, Schweden",4,Regen,88%,92%,21 km/h
+31.12.2020,"Donnerstag, 02:00",Stark bewölkt,"Linköping, Schweden",2,Stark bewölkt,10%,96%,8 km/h
+31.12.2020,"Donnerstag, 02:00",Klar und vereinzelt Wolken,Merseburg,3,Klar und vereinzelt Wolken,2%,79%,16 km/h
+31.12.2020,"Mittwoch, 19:00",Wolkenlos,"Leeton, Missouri, USA",-1,Wolkenlos,2%,80%,10 km/h
+31.12.2020,"Donnerstag, 02:00",Stark bewölkt,"Stockholm, Schweden",2,Stark bewölkt,8%,90%,3 km/h
+31.12.2020,"Donnerstag, 02:00",Stark bewölkt,Passau,-2,Stark bewölkt,4%,100%,3 km/h
