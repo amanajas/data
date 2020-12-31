@@ -79,3 +79,10 @@ date,day,desc,region,tmp_now,weather_now,precipitation,humidity,wind
 31.12.2020,"Mittwoch, 19:00",Wolkenlos,"Leeton, Missouri, USA",-1,Wolkenlos,2%,80%,10 km/h
 31.12.2020,"Donnerstag, 02:00",Stark bewölkt,"Stockholm, Schweden",2,Stark bewölkt,8%,90%,3 km/h
 31.12.2020,"Donnerstag, 02:00",Stark bewölkt,Passau,-2,Stark bewölkt,4%,100%,3 km/h
+31.12.2020,"Donnerstag, 02:00",Stark bewölkt,"Lidköping, Schweden",2,Stark bewölkt,62%,100%,10 km/h
+31.12.2020,"Donnerstag, 02:00",Schneeschauer,"Luleå, Schweden",-5,Schneeschauer,67%,93%,14 km/h
+31.12.2020,"Donnerstag, 02:00",Teils bewölkt,Dresden,2,Teils bewölkt,2%,82%,14 km/h
+31.12.2020,"Mittwoch, 19:00",Stark bewölkt,"Thomas, Illinois, USA",-4,Stark bewölkt,2%,77%,23 km/h
+31.12.2020,"Donnerstag, 02:00",Teils bewölkt,Neustadt am Rübenberge,4,Teils bewölkt,2%,81%,16 km/h
+31.12.2020,"Donnerstag, 02:00",Schneeschauer,"Piteå, Schweden",-6,Schneeschauer,58%,94%,18 km/h
+31.12.2020,"Mittwoch, 20:00",Teils bewölkt,"Jonesborough, Tennessee, USA",9,Teils bewölkt,2%,80%,6 km/h
