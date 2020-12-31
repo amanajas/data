@@ -88,3 +88,12 @@ date,day,desc,region,tmp_now,weather_now,precipitation,humidity,wind
 31.12.2020,"Mittwoch, 20:00",Teils bewölkt,"Jonesborough, Tennessee, USA",9,Teils bewölkt,2%,80%,6 km/h
 31.12.2020,"Mittwoch, 17:00",Überwiegend bewölkt,"Chapmantown, Chico, Kalifornien, USA",11,Überwiegend bewölkt,80%,63%,13 km/h
 31.12.2020,"Mittwoch, 20:00",Stark bewölkt,"Williamsburg, Virginia, USA",9,Stark bewölkt,11%,70%,0 km/h
+31.12.2020,"Donnerstag, 02:00",Überwiegend bewölkt,Tübingen,1,Überwiegend bewölkt,2%,83%,8 km/h
+31.12.2020,Sonntag,Stark bewölkt,"Lidköping, Schweden",1,Stark bewölkt,20%,94%,14 km/h
+31.12.2020,"Donnerstag, 02:00",Regen,"Malmö, Schweden",5,Regen,90%,92%,24 km/h
+31.12.2020,"Donnerstag, 02:00",Regen,"Helsingborg, Schweden",4,Regen,88%,94%,19 km/h
+31.12.2020,"Donnerstag, 02:00",Stark bewölkt,"Södertälje, Schweden",1,Stark bewölkt,4%,96%,2 km/h
+31.12.2020,"Donnerstag, 01:00",Klar und vereinzelt Wolken,"Winchester, Vereinigtes Königreich",-2,Klar und vereinzelt Wolken,3%,96%,6 km/h
+31.12.2020,"Donnerstag, 02:00",Stark bewölkt,"St. Joseph Krankenhaus, Wüsthoffstraße 15, Berlin",2,Stark bewölkt,3%,88%,13 km/h
+31.12.2020,"Donnerstag, 02:00",Teils bewölkt,"Sankt Christina in Gröden, Südtirol, Italien",-4,Teils bewölkt,2%,84%,8 km/h
+31.12.2020,"Donnerstag, 14:00",Überwiegend sonnig,"Saint Martins, Christchurch, Neuseeland",19,Überwiegend sonnig,1%,60%,24 km/h
