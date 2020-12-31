@@ -86,3 +86,5 @@ date,day,desc,region,tmp_now,weather_now,precipitation,humidity,wind
 31.12.2020,"Donnerstag, 02:00",Teils bewölkt,Neustadt am Rübenberge,4,Teils bewölkt,2%,81%,16 km/h
 31.12.2020,"Donnerstag, 02:00",Schneeschauer,"Piteå, Schweden",-6,Schneeschauer,58%,94%,18 km/h
 31.12.2020,"Mittwoch, 20:00",Teils bewölkt,"Jonesborough, Tennessee, USA",9,Teils bewölkt,2%,80%,6 km/h
+31.12.2020,"Mittwoch, 17:00",Überwiegend bewölkt,"Chapmantown, Chico, Kalifornien, USA",11,Überwiegend bewölkt,80%,63%,13 km/h
+31.12.2020,"Mittwoch, 20:00",Stark bewölkt,"Williamsburg, Virginia, USA",9,Stark bewölkt,11%,70%,0 km/h
