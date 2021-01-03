@@ -128,3 +128,11 @@ date,day,desc,region,tmp_now,weather_now,precipitation,humidity,wind
 03.01.2021,"Samstag, 20:00",Überwiegend bewölkt,"Jonesborough, Tennessee, USA",9,Überwiegend bewölkt,15%,87%,5 km/h
 03.01.2021,"Sonntag, 02:00",Stark bewölkt,"Umeå, Schweden",-7,Stark bewölkt,2%,92%,11 km/h
 03.01.2021,"Sonntag, 02:00",Stark bewölkt,Passau,-2,Stark bewölkt,6%,93%,5 km/h
+03.01.2021,"Sonntag, 02:00",Stark bewölkt,"Lidköping, Schweden",1,Stark bewölkt,5%,97%,10 km/h
+03.01.2021,"Sonntag, 02:00",Stark bewölkt,"Jönköping, Schweden",1,Stark bewölkt,3%,94%,13 km/h
+03.01.2021,"Sonntag, 02:00",Überwiegend bewölkt,"Trelleborg, Schweden",1,Überwiegend bewölkt,3%,90%,10 km/h
+03.01.2021,"Samstag, 19:00",Stark bewölkt,"Thomas, Illinois, USA",-3,Stark bewölkt,15%,98%,0 km/h
+03.01.2021,"Sonntag, 02:00",Nebel,Marienberg,-1,Nebel,96%,99%,8 km/h
+03.01.2021,Samstag,Regen,"Smithburg, West Virginia, USA",8,Regen,100%,84%,6 km/h
+03.01.2021,"Sonntag, 02:00",Klar und vereinzelt Wolken,"Piteå, Schweden",-11,Klar und vereinzelt Wolken,2%,95%,8 km/h
+03.01.2021,"Sonntag, 02:00",Stark bewölkt,"Stockholm, Schweden",0,Stark bewölkt,3%,94%,6 km/h
