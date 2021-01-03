@@ -120,3 +120,11 @@ date,day,desc,region,tmp_now,weather_now,precipitation,humidity,wind
 03.01.2021,Freitag,Überwiegend bewölkt,"Greentown, Pennsylvania, USA",1,Überwiegend bewölkt,20%,72%,13 km/h
 03.01.2021,"Samstag, 20:00",Überwiegend bewölkt,"Jonesborough, Tennessee, USA",9,Überwiegend bewölkt,15%,87%,5 km/h
 03.01.2021,"Sonntag, 02:00",Stark bewölkt,Passau,-2,Stark bewölkt,6%,93%,5 km/h
+03.01.2021,"Samstag, 19:00",Stark bewölkt,"Mitchellville, Tennessee, USA",6,Stark bewölkt,51%,86%,5 km/h
+03.01.2021,"Sonntag, 01:00",Wolkenlos,"Distrikt Viana do Castelo, Portugal",4,Wolkenlos,2%,90%,8 km/h
+03.01.2021,"Sonntag, 02:00",Nebel,Marienberg,-1,Nebel,96%,99%,8 km/h
+03.01.2021,Samstag,Regen,"Smithburg, West Virginia, USA",8,Regen,100%,84%,6 km/h
+03.01.2021,Freitag,Überwiegend bewölkt,"Greentown, Pennsylvania, USA",1,Überwiegend bewölkt,20%,72%,13 km/h
+03.01.2021,"Samstag, 20:00",Überwiegend bewölkt,"Jonesborough, Tennessee, USA",9,Überwiegend bewölkt,15%,87%,5 km/h
+03.01.2021,"Sonntag, 02:00",Stark bewölkt,"Umeå, Schweden",-7,Stark bewölkt,2%,92%,11 km/h
+03.01.2021,"Sonntag, 02:00",Stark bewölkt,Passau,-2,Stark bewölkt,6%,93%,5 km/h
