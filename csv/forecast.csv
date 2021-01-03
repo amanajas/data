@@ -151,3 +151,9 @@ date,day,desc,region,tmp_now,weather_now,precipitation,humidity,wind
 03.01.2021,"Sonntag, 02:00",Stark bewölkt,Anklam,2,Stark bewölkt,3%,97%,6 km/h
 03.01.2021,"Samstag, 20:00",Wolkenlos,"Williamsburg, Virginia, USA",9,Wolkenlos,2%,90%,2 km/h
 03.01.2021,"Samstag, 17:00",Starker Regen,"Port Orchard, Washington, USA",9,Starker Regen,100%,94%,27 km/h
+03.01.2021,"Sonntag, 02:00",Stark bewölkt,"Varberg, Schweden",2,Stark bewölkt,3%,91%,10 km/h
+03.01.2021,"Sonntag, 02:00",Teils bewölkt,"Malmö, Schweden",0,Teils bewölkt,3%,92%,6 km/h
+03.01.2021,Sonntag,Schneeschauer,Hechingen,1,Schneeschauer,40%,90%,3 km/h
+03.01.2021,"Samstag, 19:00",Nebel,"Thomas, Illinois, USA",-3,Nebel,15%,96%,2 km/h
+03.01.2021,"Samstag, 22:00",Wolkenlos,"Sales - São Paulo, Brasilien",23,Wolkenlos,5%,84%,10 km/h
+03.01.2021,"Sonntag, 02:00",Stark bewölkt,"Halmstad, Schweden",2,Stark bewölkt,3%,90%,10 km/h
